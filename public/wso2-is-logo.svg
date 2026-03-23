@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- WSO2 wordmark -->
+  <text x="0" y="42" font-family="Arial, sans-serif" font-weight="800" font-size="40" fill="#FF7300">wso2</text>
+  <!-- Dot accent -->
+  <circle cx="197" cy="10" r="6" fill="#FF7300"/>
+</svg>
